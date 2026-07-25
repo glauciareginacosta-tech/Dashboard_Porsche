@@ -4,7 +4,7 @@ Este repositório contém o código e os recursos do relatório/dashboard analí
 
 ## Visão Geral
 
-O dashboard foi atualizado recentemente para focar nas métricas fundamentais de negócio, omitindo o gráfico de vendas evolutivo anterior conforme solicitado. Ele apresenta:
+O dashboard foi atualizado recentemente para focar nas métricas fundamentais de negócio
 
 * **Métricas Principais (KPIs):** Total de vendas, faturamento total e preço médio por veículo.
 * **Desempenho por Modelo:** Análise quantitativa e financeira detalhada de cada modelo da marca (como 911, Cayenne, Macan, Taycan, Panamera, Cayman e Boxster).
